@@ -1,3 +1,4 @@
+
 //boolean
 const conta_paga: boolean = false
 
@@ -124,4 +125,5 @@ const minha_idade: any = 23;
 //const input = document.getElementById('numero1') as HTMLInputElement
 const input = <HTMLInputElement>document.getElementById('numero1')
 console.log(input.value)
+
 
